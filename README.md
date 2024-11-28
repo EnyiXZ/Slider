@@ -6,7 +6,7 @@ Este es el código fuente de mi página web publicada con [GitHub Pages](https:/
 - HTML
 - CSS
 - JavaScript
-- <br>
-- <br>
+  <br>
+  <br>
 ![image](https://github.com/user-attachments/assets/db3d1376-0749-4214-ac12-5b8593f2524e)
 ![image](https://github.com/user-attachments/assets/203490ba-216b-4018-8474-49609fa85e4a)
