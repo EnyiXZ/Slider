@@ -1,0 +1,60 @@
+.slider {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 10%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.caption {
+    padding: 5px 10px;
+    background-color: rgba(193, 70, 70, 0.6);
+    color: white;
+    position: absolute;
+    top: 80%; 
+    left: 50%;
+    font-size: 30px;
+    transform: translateX(-50%);
+    width: 98.8%;
+    max-width: 100%;
+    text-align: center;
+
+}
+
+.nav-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.prev {
+    margin: -2%;
+    left: -60px; 
+    top: 62%;
+} 
+.next {
+    margin: -2%;
+    right: -60px;
+    top: 62%;
+}
+
+.markers {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.marker {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    cursor: pointer;
+}
